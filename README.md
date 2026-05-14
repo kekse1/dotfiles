@@ -3,6 +3,13 @@
 <br>
 
 # `dotfiles`
+It's just the beginning.. started **2026-05-15**; but I don't think
+there's gonna be much more in the next time.
+
+<br><br>
+
+# Index
+
 - [`tmux.conf`](./files/tmux.conf)
 
 <br><br><br>
