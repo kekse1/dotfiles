@@ -15,7 +15,7 @@ there's gonna be much more in the next time.
 <br><br>
 
 # References
-* [Linux page on my private website](https://kekse.biz/?~linux)
+* [**Linux section** @ my private website](https://kekse.biz/?~linux)
 
 <br><br><br>
 
