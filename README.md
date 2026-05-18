@@ -12,6 +12,11 @@ there's gonna be much more in the next time.
 
 - [`tmux.conf`](./files/tmux.conf)
 
+<br><br>
+
+# References
+* [Linux page on my private website](https://kekse.biz/?~linux)
+
 <br><br><br>
 
 # Contact
