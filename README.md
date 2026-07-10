@@ -1,7 +1,5 @@
 <img src="https://kekse.biz/github.php?draw&override=github:dotfiles" />
 
-<br>
-
 # `dotfiles`
 It's just the beginning.. started **2026-05-15**; but I don't think
 there's gonna be much more in the next time.
@@ -21,6 +19,8 @@ there's gonna be much more in the next time.
 
 # Contact
 <img src="https://kekse.biz/github.php?override=github:dotfiles&draw&text=dotfiles@kekse.biz&angle=6&size=38pt&fg=150,20,90&font=OpenSans&ro&readonly&h=64&v=16" />
+
+<br>
 
 # Copyright and License
 The Copyright is [(c) Sebastian Kucharczyk](./COPYRIGHT.txt),
