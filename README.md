@@ -11,8 +11,8 @@ there's gonna be much more in the next time.
 
 # Index
 
-- [`tmux.conf`](./files/tmux.conf)
-- [`yt-dlp.conf`](./files/yt-dlp.conf)
+- [`tmux.conf`](./files/tmux.conf) (updated **2026-05-15**(??))
+- [`yt-dlp.conf`](./files/yt-dlp.conf) (created **2026-10-07**)
 
 <br><br>
 
