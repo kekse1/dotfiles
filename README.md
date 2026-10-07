@@ -10,6 +10,14 @@ there's gonna be much more in the next time.
 # Index
 
 - [`tmux.conf`](./files/tmux.conf)
+- [`yt-dlp.conf`](./files/yt-dlp.conf)
+
+<br><br>
+
+# TODO
+My `~/git/linux/` repository also contains many `/etc/profile.d/*` files,
+but it needs some sorting and filtering. So you have to wait some time
+until I'm going to upload it to this repository.
 
 <br><br>
 
