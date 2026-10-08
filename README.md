@@ -12,7 +12,7 @@ there's gonna be much more in the next time.
 # Index
 
 - [`tmux.conf`](./files/tmux.conf) (updated **2026-05-15**(??))
-- [`yt-dlp.conf`](./files/yt-dlp.conf) (created **2026-10-07**)
+- [`yt-dlp.conf`](./files/yt-dlp.conf) (updated **2026-10-08**)
 
 <br><br>
 
